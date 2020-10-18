@@ -32,3 +32,9 @@ TestRPC --db C:\Doutorado2\programacao\ethereum\teste5\db -i rede123 -p 8545 --a
 
 ![alt text](https://github.com/monteiro74/trab_tecnicas_prog/blob/main/tela2.jpg?raw=true)
 
+Figura 2, TestRPC rodando.
+
+A figura 2, apresenta a saída do comando TestRPC no prompt do node.js, pode ver as 5 contas que foram criadas e suas chaves privadas, e por último uma mensagem dizendo que o programa está escutando a porta 8545.
+
+Os testes do programa em Solidity foram executados em uma IDE online gratuita, Remix. Veja figura 3, abaixo:
+
