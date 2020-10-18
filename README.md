@@ -98,10 +98,14 @@ B. Implementar um login antes do usuário ter acesso direto a página do formul�
 C. Adicionar mais nós Ethereum ao ambiente de testes.
 D. Trocar o TestRPC pelo geth, pois o TestRPC foi descontinuado.
 
+O código fonte encontra-se nosarquivos script1.js e contrato1.sol.
 
 
-O código fonte segue abaixo:
+
+
 ------------------------------------------------------------------
+Anexos, código fonte.
+
 Anexo I – código ABI
 
 ABI = [ { "constant": false, "inputs": [ { "name": "novoCodigo1", "type": "string" }, { "name": "novoCodigo2", "type": "string" } ], "name": "setContrato", "outputs": [], "payable": false, "stateMutability": "nonpayable", "type": "function" }, { "constant": true, "inputs": [], "name": "getContrato", "outputs": [ { "name": "", "type": "string" }, { "name": "", "type": "string" } ], "payable": false, "stateMutability": "view", "type": "function" } ] ;
