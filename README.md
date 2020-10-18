@@ -74,4 +74,4 @@ Figura 7, apresenta o uso do método setContrato e envia dados para o console lo
 
 O código da interface com o usuário é apresentado na Figura 8. Na linha 7 é chamada a biblioteca web3.js. As linhas 11 a 18 apresentam uma simples interface com o usuário. A linha 22 faz a chamada aos códigos javascript, que estão no arquivo script1.js, estes foram comentados previamente nas figuras 6 e 7.
 
-
+![alt text](https://github.com/monteiro74/trab_tecnicas_prog/blob/main/tela5.jpg?raw=true)
