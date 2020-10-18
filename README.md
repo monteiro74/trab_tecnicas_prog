@@ -88,3 +88,14 @@ Figura 9, interface do protótipo e resultados na console log.
 
 As interfaces com os usuários utilizadas nas dApps, geralmente são feitas em HTML e javascript, outro exemplo é o plugin para navegadores Metamask, utilizada como carteira para interagir com as redes Ethereum. A principal vantagem no projeto de uma rede blockchain privada é que o cliente necessita apenas de um navegador para acessar a blockchain. Com uma instalação de servidores Apaches  apresentando uma página que pode ser direcionada para um formulário que acessa a blockchain ou os sistemas web podem importar a web3js e fazer chamadas diretamente a blockchain. Figura 10, apresenta esta possível configuração.
 
+![alt text](https://github.com/monteiro74/trab_tecnicas_prog/blob/main/arquitetura2.png?raw=true)
+
+Figura 10, possível configuração das dApps em um ambiente distribuído.
+
+7. Trabalhos futuros
+
+1. Implementar mais funcionalidades na dApp cliente como consultas e exibição de dados.
+2. Implementar um login antes do usuário ter acesso direto a página do formulário que interage com a blockchain.
+3. Adicionar mais nós Ethereum ao ambiente de testes.
+4. Trocar o TestRPC pelo geth, pois o TestRPC foi descontinuado.
+
