@@ -38,3 +38,5 @@ A figura 2, apresenta a saída do comando TestRPC no prompt do node.js, pode ver
 
 Os testes do programa em Solidity foram executados em uma IDE online gratuita, Remix. Veja figura 3, abaixo:
 
+![alt text](https://github.com/monteiro74/trab_tecnicas_prog/blob/main/solidity.png?raw=true)
+
