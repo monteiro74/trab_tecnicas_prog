@@ -1,4 +1,3 @@
-# trab_tecnicas_prog
 Trabalho de técnicas de programação
 
 Registros de transações em uma cadeia de fornecimento reversa usando blockchain.
