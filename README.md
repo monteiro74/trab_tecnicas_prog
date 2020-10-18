@@ -40,3 +40,13 @@ Os testes do programa em Solidity foram executados em uma IDE online gratuita, R
 
 ![alt text](https://github.com/monteiro74/trab_tecnicas_prog/blob/main/solidity.png?raw=true)
 
+Figura 3, IDE online Remix.
+
+Uma vez compilado o código do smart contract no Remix, este era testado dentro da IDE. A IDE Remix foi configurada para se conectar com o nó local privado e posteriormente era feito o deploy do smart contract no nó local. A IDE também foi utilizada para fornecer o endereço de deploy do contrato e código ABI. Para a configuração do cliente foi necessário instalar o node.js e o web3.js. O node.js foi instalado no sistema operacional (Windows 10) e o web3.js deve ser instalado na pasta de desenvolvimento da aplicação.
+
+5. Códigos no lado servidor
+
+O código servidor é composto por uma classe chamada Contrato1, a qual contém duas variáveis do tipo string (código1 e código2), que podem receber qualquer valor que o usuário desejar neste momento, futuramente poderia ser campos de uma estrutura com nomes como: chaveDaNFe  e número NCM . Selecionamos string e não números para que o protótipo possa ser adaptado para outros fins durante os testes com códigos alfa numéricos. A classe contrato tem dois métodos: setContrato e getContrato. setContrato é utilizado para receber da aplicação do usuário dois valores e gravá-los na blockchain. getContrato é utilizado para recuperar valores. A linha pragma é utilizada para fixar a versão do compilador. Figura 4.
+
+![alt text](https://github.com/monteiro74/trab_tecnicas_prog/blob/main/contrato.png?raw=true)
+
