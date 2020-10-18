@@ -69,3 +69,9 @@ Figura 6, primeira parte do código javascript.
 A ABI é uma string de caracteres bastante grande (estará nos anexos). A primeira parte do código está comentado na figura 6. As linhas de 1 a 6 contém o “provider” para abrir a conexão com o servidor. As linhas 8 a 12 contém as variáveis usadas como parâmetros para a criação do contrato. As linhas 15 a 17 apresentam a criação da instância do objeto Contrato1. A linha 20 envia uma mensagem ao console log para que se possa verificar a conexão. As linhas 23 a 30 acionam o método getContrato recuperando os 2 valores (as strings código1 e codigo2) da blockchain, o resultado é mostrado no formulário html e no console log. A segunda parte do código (Figura 7), linhas 32 a 55, contém o código acionado por um botão que realiza duas operações: entre as linhas 35 a 37 envia dados para a blockchain utilizando o método setContrato, o qual contém, dois parâmetros (Codigo1 e Codigo2). E entre as linhas 40 a 53 mostra no console log o que já foi enviado.
 
 ![alt text](https://github.com/monteiro74/trab_tecnicas_prog/blob/main/tela4.jpg?raw=true)
+
+Figura 7, apresenta o uso do método setContrato e envia dados para o console log.
+
+O código da interface com o usuário é apresentado na Figura 8. Na linha 7 é chamada a biblioteca web3.js. As linhas 11 a 18 apresentam uma simples interface com o usuário. A linha 22 faz a chamada aos códigos javascript, que estão no arquivo script1.js, estes foram comentados previamente nas figuras 6 e 7.
+
+
