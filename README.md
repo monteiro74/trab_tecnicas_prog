@@ -50,3 +50,9 @@ O código servidor é composto por uma classe chamada Contrato1, a qual contém 
 
 ![alt text](https://github.com/monteiro74/trab_tecnicas_prog/blob/main/contrato.png?raw=true)
 
+Figura 4, código do smart contract.
+
+Conforme o cliente vai interagindo com o servidor, o nó Ethereum vai guardando as transações em blocos no disco. A figura 5, a seguir mostra blocos já processados e gravados como arquivos.
+
+![alt text](https://github.com/monteiro74/trab_tecnicas_prog/blob/main/blocos.png?raw=true)
+
