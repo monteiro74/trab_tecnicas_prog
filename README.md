@@ -24,3 +24,9 @@ O protótipo foi construído para permitir testar conceitos. O principal era a t
 
 ![alt text](https://github.com/monteiro74/trab_tecnicas_prog/blob/main/arquitetura.jpg?raw=true)
 
+4. Configuração do ambiente
+
+Para a montagem do nó local privado foi utilizado o programa de linha de comando, TestRPC. Ao rodar o TestRPC, especificamos uma certa quantidade de contas (5), quantidade de Ether (100) e o número de porta: 8545. Exemplo: 
+
+TestRPC --db C:\Doutorado2\programacao\ethereum\teste5\db -i rede123 -p 8545 --accounts 5 --defaultBalanceEther 100 -m "FraseMnemonicParaASenha"
+
