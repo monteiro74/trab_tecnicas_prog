@@ -98,6 +98,10 @@ B. Implementar um login antes do usuário ter acesso direto a página do formul�
 C. Adicionar mais nós Ethereum ao ambiente de testes.
 D. Trocar o TestRPC pelo geth, pois o TestRPC foi descontinuado.
 
+
+------------------------------------------------------------------
+
+
 O código fonte encontra-se nosarquivos script1.js e contrato1.sol.
 
 
