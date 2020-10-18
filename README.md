@@ -106,6 +106,7 @@ Anexo I – código ABI
 
 ABI = [ { "constant": false, "inputs": [ { "name": "novoCodigo1", "type": "string" }, { "name": "novoCodigo2", "type": "string" } ], "name": "setContrato", "outputs": [], "payable": false, "stateMutability": "nonpayable", "type": "function" }, { "constant": true, "inputs": [], "name": "getContrato", "outputs": [ { "name": "", "type": "string" }, { "name": "", "type": "string" } ], "payable": false, "stateMutability": "view", "type": "function" } ] ;
 
+------------------------------------------------------------------
 Anexo II – Código do smart contract
 
 pragma solidity ^0.4.18;
@@ -122,7 +123,9 @@ contract Contrato1 {
     }
 }
 
---- Anexo III – Código javascript -----------------------------------------------------
+------------------------------------------------------------------
+Anexo III – Código javascript 
+
 //
 // define o provider como sendo localhost na porta 8545
 if (typeof web3 !== 'undefined') {
