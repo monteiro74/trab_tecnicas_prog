@@ -30,3 +30,5 @@ Para a montagem do nó local privado foi utilizado o programa de linha de comand
 
 TestRPC --db C:\Doutorado2\programacao\ethereum\teste5\db -i rede123 -p 8545 --accounts 5 --defaultBalanceEther 100 -m "FraseMnemonicParaASenha"
 
+![alt text](https://github.com/monteiro74/trab_tecnicas_prog/blob/main/tela2.jpg?raw=true)
+
