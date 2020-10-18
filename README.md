@@ -56,3 +56,9 @@ Conforme o cliente vai interagindo com o servidor, o nó Ethereum vai guardando 
 
 ![alt text](https://github.com/monteiro74/trab_tecnicas_prog/blob/main/blocos.png?raw=true)
 
+Figura 5, blocos no disco.
+
+6. Códigos no lado cliente
+
+O código cliente está dividido em uma simples página html para mostrar os campos para o usuário interagir e o código javascript que realiza o trabalho mais importante interagindo com o lado servidor. O código possui o provider, o ABI e as chamadas aos métodos, veja figura 6.
+ 
