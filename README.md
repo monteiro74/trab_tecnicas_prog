@@ -82,3 +82,9 @@ Na interface o usuário pode digitar duas strings ou qualquer valor, pressionar 
 
 ![alt text](https://github.com/monteiro74/trab_tecnicas_prog/blob/main/tela6.jpg?raw=true)
 
+Figura 9, interface do protótipo e resultados na console log.
+
+6.1. Aplicabilidade da UX (dApp)
+
+As interfaces com os usuários utilizadas nas dApps, geralmente são feitas em HTML e javascript, outro exemplo é o plugin para navegadores Metamask, utilizada como carteira para interagir com as redes Ethereum. A principal vantagem no projeto de uma rede blockchain privada é que o cliente necessita apenas de um navegador para acessar a blockchain. Com uma instalação de servidores Apaches  apresentando uma página que pode ser direcionada para um formulário que acessa a blockchain ou os sistemas web podem importar a web3js e fazer chamadas diretamente a blockchain. Figura 10, apresenta esta possível configuração.
+
