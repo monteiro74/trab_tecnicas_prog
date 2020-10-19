@@ -101,6 +101,10 @@ D. Trocar o TestRPC pelo geth, pois o TestRPC foi descontinuado.
 
 ------------------------------------------------------------------
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/GeVtvkZ3rqQ)
+
+
+------------------------------------------------------------------
 
 
 O código fonte encontra-se nos arquivos: script1.js e contrato1.sol.
