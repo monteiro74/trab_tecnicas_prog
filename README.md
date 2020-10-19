@@ -101,7 +101,7 @@ D. Trocar o TestRPC pelo geth, pois o TestRPC foi descontinuado.
 
 ------------------------------------------------------------------
 
-[![Watch the video](https://youtu.be/GeVtvkZ3rqQ)
+https://youtu.be/GeVtvkZ3rqQ
 
 
 ------------------------------------------------------------------
